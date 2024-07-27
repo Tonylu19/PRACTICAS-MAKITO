@@ -1,0 +1,5 @@
+BEGIN-CODE
+        MOV 1,AC
+        TERM
+END-CODE
+
